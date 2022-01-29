@@ -6,6 +6,7 @@
     "express": "^4.17.1",
     "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2",
-    "wio.db": "^4.0.21"
+    "wio.db": "^4.0.21",
+    "fs": "0.0.1-security"
   }
 }
