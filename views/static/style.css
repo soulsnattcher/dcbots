@@ -1,0 +1,22 @@
+* {
+	padding: 0;
+	margin: 0;
+	background: black;
+    color: white;
+}
+header div {
+    float: right;
+}
+header div button {
+    border-radius: 10px;
+    background: purple;
+    text-align: center;
+    width: 75px;
+}
+.formeleman {
+    background: red;
+    border-radius: 3px;
+    color: white;
+    border: none;
+    width: 300px;
+}
