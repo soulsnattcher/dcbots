@@ -85,4 +85,4 @@ fs.readdirSync("komutlar").forEach((file)=>{
     console.log(file.split(".")[0], "yüklendi.")
 })
 
-client.login("ODg2MjIwNTk4Nzc3MzQ4MTE2.YTybPw.migoZ-Gjk44FCDiMxGnR3mxuumk")
+client.login(process.env.token)
